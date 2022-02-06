@@ -10,3 +10,6 @@ Fix my code is a new type of project, where we jump into an existing code base a
 * All files were compiled on Ubuntu 14.04 LTS.
 * All your files should end with a new line.
 * A README.md file, at the root of the folder of the project is mandatory.
+
+### Author.
+
