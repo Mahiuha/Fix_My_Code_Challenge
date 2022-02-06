@@ -13,3 +13,4 @@ Fix my code is a new type of project, where we jump into an existing code base a
 
 ### Author.
 
+Joseph Mahiuha - [Github](https://github.com/Mahiuha)
